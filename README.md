@@ -53,3 +53,43 @@ Flattening involves transforming the pooled feature map into a single column tha
 The flattened feature map is then passed to a fully connected layer. There might be several fully connected layers depending on the problem and the network. The last fully connected layer is responsible for outputting the prediction. 
 
 An activation function is used in the final layer depending on the type of problem. A sigmoid activation is used for binary classification, while a softmax activation function is used for multi-class image classification.
+
+
+
+# VGG16
+VGG16 is a popular convolutional neural network (CNN) model that was developed by the Visual Geometry Group (VGG) at the University of Oxford in 2014.
+
+VGG16 consists of 13 convolutional layers, followed by 3 fully-connected layers.
+
+The input to the model is a 224×224 RGB image, which is passed through the convolutional layers. These layers extract features from the input image, and they are followed by max-pooling layers that reduce the spatial dimensionality of the feature maps.
+
+![]()
+
+Following the convolutional layers, the output is passed through fully-connected layers that predict the class of the input image.
+
+The final layer of the model is a softmax layer, which outputs a probability distribution over the classes in the Weather Dataset.
+
+```bash
+prediction = model.predict(test_image)
+if(prediction[0][0]==1):
+  print(f"-"*100)
+  print("Prediction is :       cloudy")
+  print(f"-"*150)
+elif(prediction[0][1]==1):
+  print(f"-"*150)
+  print("Prediction is :       rain")
+  print(f"-"*150)
+else:
+  print("Unable to predict")
+plt.imshow(test_image_orginal)
+plt.show()
+```
+![]()
+
+### Advantage of VGG16
+VGG16 is popular for a number of reasons. First, it achieved state-of-the-art performance on the ImageNet dataset, which is a widely-used benchmark for image classification tasks.
+
+Second, the architecture of the model is relatively simple, which makes it easy to understand and implement.
+
+Finally, the model is pre-trained on the ImageNet dataset, which means that it can be fine-tuned for a wide range of image classification tasks with relatively little data.
+
