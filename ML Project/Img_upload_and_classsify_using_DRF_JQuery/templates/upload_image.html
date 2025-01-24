@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload and Classify Image</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        #container {
+            display: flex;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        #uploadedImage {
+            max-width: 300px;
+            max-height: 300px;
+        }
+        #response {
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            padding: 10px;
+            font-family: monospace;
+            overflow-wrap: break-word;
+        }
+    </style>
+</head>
+<body>
+    <h1>Upload and Classify Image</h1>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <label for="image">Select an image:</label>
+        <input type="file" id="image" name="image" accept="image/*" required>
+        <button type="submit">Upload and Classify</button>
+    </form>
+
+    <div id="container">
+        <!-- Uploaded image will be displayed here -->
+        <div>
+            <h2>Uploaded Image</h2>
+            <img id="uploadedImage" src="" alt="Uploaded Image">
+        </div>
+
+        <!-- JSON response will be displayed here -->
+        <div>
+            <h2>Response</h2>
+            <pre id="response"></pre>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#uploadForm').on('submit', function (event) {
+                event.preventDefault(); // Prevent default form submission
+
+                // Create a FormData object from the form
+                const formData = new FormData(this);
+                const fileInput = $('#image')[0].files[0];
+
+                if (fileInput) {
+                    // Display the uploaded image
+                    const reader = new FileReader();
+                    reader.onload = function (e) {
+                        $('#uploadedImage').attr('src', e.target.result);
+                    };
+                    reader.readAsDataURL(fileInput);
+                }
+
+                // Send AJAX request to the server
+                $.ajax({
+                    url: '/upload-and-classify/', // Endpoint
+                    type: 'POST',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    success: function (data) {
+                        // Display success response
+                        $('#response').text(JSON.stringify(data, null, 2)); // Format JSON
+                    },
+                    error: function (xhr) {
+                        // Display error response
+                        const error = JSON.parse(xhr.responseText);
+                        $('#response').text(JSON.stringify(error, null, 2));
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
