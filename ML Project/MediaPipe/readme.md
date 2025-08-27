@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ### 4. Run Inference
 ```bash
-python3 inference.py --video input.mp4 --output out
+python3 MediaPipe_Landmark_Overlay.py --video input.mp4 --output out
 ```
 --video specifies the path to the input video.
 
