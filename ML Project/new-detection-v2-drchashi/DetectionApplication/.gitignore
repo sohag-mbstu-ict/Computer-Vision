@@ -1,0 +1,17 @@
+# Ignore trained models and media uploads
+trained_model/
+media/
+
+# (Optional) Ignore system files and Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.DS_Store
+*.swp
+
+# (Optional) Ignore virtual environments
+venv/
+.env/

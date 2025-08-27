@@ -1,0 +1,2772 @@
+[
+  {
+    "Frame ID": 2,
+    "Left Knee Flexion": 179.33527910521926,
+    "Right Knee Flexion": 178.43559332977864
+  },
+  {
+    "Frame ID": 3,
+    "Left Knee Flexion": 179.67360781589664,
+    "Right Knee Flexion": 177.91385974194895
+  },
+  {
+    "Frame ID": 4,
+    "Left Knee Flexion": 178.98118025969606,
+    "Right Knee Flexion": 178.7193496301954
+  },
+  {
+    "Frame ID": 5,
+    "Left Knee Flexion": 179.19959267308883,
+    "Right Knee Flexion": 178.67309739091058
+  },
+  {
+    "Frame ID": 6,
+    "Left Knee Flexion": 179.581268696555,
+    "Right Knee Flexion": 178.8624370163048
+  },
+  {
+    "Frame ID": 7,
+    "Left Knee Flexion": 178.5588589827236,
+    "Right Knee Flexion": 178.84815456989713
+  },
+  {
+    "Frame ID": 8,
+    "Left Knee Flexion": 179.1267181810045,
+    "Right Knee Flexion": 178.72714997335825
+  },
+  {
+    "Frame ID": 9,
+    "Left Knee Flexion": 179.32418369540989,
+    "Right Knee Flexion": 179.2077616889773
+  },
+  {
+    "Frame ID": 10,
+    "Left Knee Flexion": 179.44628287662127,
+    "Right Knee Flexion": 179.60125862739034
+  },
+  {
+    "Frame ID": 11,
+    "Left Knee Flexion": 179.28097939410068,
+    "Right Knee Flexion": 179.19459959391403
+  },
+  {
+    "Frame ID": 12,
+    "Left Knee Flexion": 178.84039890713782,
+    "Right Knee Flexion": 179.62553946521606
+  },
+  {
+    "Frame ID": 13,
+    "Left Knee Flexion": 177.96390247198175,
+    "Right Knee Flexion": 179.8608708058404
+  },
+  {
+    "Frame ID": 14,
+    "Left Knee Flexion": 177.27716759258652,
+    "Right Knee Flexion": 179.55001035672277
+  },
+  {
+    "Frame ID": 15,
+    "Left Knee Flexion": 177.84193922442915,
+    "Right Knee Flexion": 179.44978621786106
+  },
+  {
+    "Frame ID": 16,
+    "Left Knee Flexion": 178.05423026416253,
+    "Right Knee Flexion": 179.586336053979
+  },
+  {
+    "Frame ID": 17,
+    "Left Knee Flexion": 178.43213963498278,
+    "Right Knee Flexion": 179.57231881390382
+  },
+  {
+    "Frame ID": 18,
+    "Left Knee Flexion": 177.35386939696818,
+    "Right Knee Flexion": 178.60472047213358
+  },
+  {
+    "Frame ID": 19,
+    "Left Knee Flexion": 178.53914329676857,
+    "Right Knee Flexion": 179.13466292858274
+  },
+  {
+    "Frame ID": 20,
+    "Left Knee Flexion": 176.7347798240207,
+    "Right Knee Flexion": 176.61171818855658
+  },
+  {
+    "Frame ID": 21,
+    "Left Knee Flexion": 174.5101229858546,
+    "Right Knee Flexion": 172.5472597423766
+  },
+  {
+    "Frame ID": 22,
+    "Left Knee Flexion": 174.7372581558571,
+    "Right Knee Flexion": 169.4144057189736
+  },
+  {
+    "Frame ID": 23,
+    "Left Knee Flexion": 174.96437090838577,
+    "Right Knee Flexion": 166.07283522393712
+  },
+  {
+    "Frame ID": 24,
+    "Left Knee Flexion": 175.09144854225633,
+    "Right Knee Flexion": 163.86870322485615
+  },
+  {
+    "Frame ID": 25,
+    "Left Knee Flexion": 174.31805275725304,
+    "Right Knee Flexion": 161.42136029128622
+  },
+  {
+    "Frame ID": 26,
+    "Left Knee Flexion": 174.12270771136534,
+    "Right Knee Flexion": 163.9246237849422
+  },
+  {
+    "Frame ID": 27,
+    "Left Knee Flexion": 175.11697566500055,
+    "Right Knee Flexion": 170.7382923780219
+  },
+  {
+    "Frame ID": 28,
+    "Left Knee Flexion": 175.80393057485662,
+    "Right Knee Flexion": 174.81033711570447
+  },
+  {
+    "Frame ID": 29,
+    "Left Knee Flexion": 173.5438181018915,
+    "Right Knee Flexion": 177.4757095065868
+  },
+  {
+    "Frame ID": 30,
+    "Left Knee Flexion": 173.31697016136442,
+    "Right Knee Flexion": 179.56166671155722
+  },
+  {
+    "Frame ID": 31,
+    "Left Knee Flexion": 172.79124212838215,
+    "Right Knee Flexion": 178.61959690682937
+  },
+  {
+    "Frame ID": 32,
+    "Left Knee Flexion": 172.29290151062133,
+    "Right Knee Flexion": 178.92418382530454
+  },
+  {
+    "Frame ID": 33,
+    "Left Knee Flexion": 171.84503616892815,
+    "Right Knee Flexion": 178.36532061298573
+  },
+  {
+    "Frame ID": 34,
+    "Left Knee Flexion": 173.17138246317023,
+    "Right Knee Flexion": 179.44032775870096
+  },
+  {
+    "Frame ID": 35,
+    "Left Knee Flexion": 174.73114205329426,
+    "Right Knee Flexion": 179.93831845992403
+  },
+  {
+    "Frame ID": 36,
+    "Left Knee Flexion": 174.57048942252385,
+    "Right Knee Flexion": 179.62088819386057
+  },
+  {
+    "Frame ID": 37,
+    "Left Knee Flexion": 174.87663789384436,
+    "Right Knee Flexion": 179.2782681486616
+  },
+  {
+    "Frame ID": 38,
+    "Left Knee Flexion": 175.2854807568376,
+    "Right Knee Flexion": 179.7690587063663
+  },
+  {
+    "Frame ID": 39,
+    "Left Knee Flexion": 175.48682390856678,
+    "Right Knee Flexion": 178.93574277863155
+  },
+  {
+    "Frame ID": 40,
+    "Left Knee Flexion": 175.88272133462306,
+    "Right Knee Flexion": 179.5663701288024
+  },
+  {
+    "Frame ID": 41,
+    "Left Knee Flexion": 176.71936771249958,
+    "Right Knee Flexion": 179.95261628591135
+  },
+  {
+    "Frame ID": 42,
+    "Left Knee Flexion": 176.54594588309405,
+    "Right Knee Flexion": 179.46486177967336
+  },
+  {
+    "Frame ID": 43,
+    "Left Knee Flexion": 176.19868376159897,
+    "Right Knee Flexion": 179.75062337786756
+  },
+  {
+    "Frame ID": 44,
+    "Left Knee Flexion": 176.6227998734903,
+    "Right Knee Flexion": 179.88369142575402
+  },
+  {
+    "Frame ID": 45,
+    "Left Knee Flexion": 177.1069987812385,
+    "Right Knee Flexion": 179.47434235476467
+  },
+  {
+    "Frame ID": 46,
+    "Left Knee Flexion": 177.94902643456408,
+    "Right Knee Flexion": 179.7568424952995
+  },
+  {
+    "Frame ID": 47,
+    "Left Knee Flexion": 178.29893394710768,
+    "Right Knee Flexion": 179.41030299489697
+  },
+  {
+    "Frame ID": 48,
+    "Left Knee Flexion": 179.68707757578,
+    "Right Knee Flexion": 179.87223555235684
+  },
+  {
+    "Frame ID": 49,
+    "Left Knee Flexion": 179.77748407472592,
+    "Right Knee Flexion": 179.47545762158657
+  },
+  {
+    "Frame ID": 50,
+    "Left Knee Flexion": 179.45037500890524,
+    "Right Knee Flexion": 179.6854050669249
+  },
+  {
+    "Frame ID": 51,
+    "Left Knee Flexion": 179.63528781410474,
+    "Right Knee Flexion": 179.75607792606357
+  },
+  {
+    "Frame ID": 52,
+    "Left Knee Flexion": 179.76292462866897,
+    "Right Knee Flexion": 179.5524178993954
+  },
+  {
+    "Frame ID": 53,
+    "Left Knee Flexion": 179.7602615988811,
+    "Right Knee Flexion": 179.48594053998107
+  },
+  {
+    "Frame ID": 54,
+    "Left Knee Flexion": 178.52896890181864,
+    "Right Knee Flexion": 179.4140120321703
+  },
+  {
+    "Frame ID": 55,
+    "Left Knee Flexion": 179.60391915655669,
+    "Right Knee Flexion": 179.7670462779226
+  },
+  {
+    "Frame ID": 56,
+    "Left Knee Flexion": 179.21982782846882,
+    "Right Knee Flexion": 179.23180990715187
+  },
+  {
+    "Frame ID": 57,
+    "Left Knee Flexion": 179.16513517598273,
+    "Right Knee Flexion": 179.81273919369826
+  },
+  {
+    "Frame ID": 58,
+    "Left Knee Flexion": 179.40740157627374,
+    "Right Knee Flexion": 179.8638179318915
+  },
+  {
+    "Frame ID": 59,
+    "Left Knee Flexion": 179.67584513456342,
+    "Right Knee Flexion": 179.89668741856747
+  },
+  {
+    "Frame ID": 60,
+    "Left Knee Flexion": 179.59016032727197,
+    "Right Knee Flexion": 179.05448102643993
+  },
+  {
+    "Frame ID": 61,
+    "Left Knee Flexion": 178.992542400811,
+    "Right Knee Flexion": 179.5231819716159
+  },
+  {
+    "Frame ID": 62,
+    "Left Knee Flexion": 179.30256300179607,
+    "Right Knee Flexion": 179.73157645730595
+  },
+  {
+    "Frame ID": 63,
+    "Left Knee Flexion": 179.89436062510984,
+    "Right Knee Flexion": 179.41076221892448
+  },
+  {
+    "Frame ID": 64,
+    "Left Knee Flexion": 179.16708049837644,
+    "Right Knee Flexion": 179.70325125278418
+  },
+  {
+    "Frame ID": 65,
+    "Left Knee Flexion": 179.28411810220123,
+    "Right Knee Flexion": 178.91559480907796
+  },
+  {
+    "Frame ID": 66,
+    "Left Knee Flexion": 179.44375881271364,
+    "Right Knee Flexion": 179.87832935635745
+  },
+  {
+    "Frame ID": 67,
+    "Left Knee Flexion": 179.3027074971951,
+    "Right Knee Flexion": 179.94246378286914
+  },
+  {
+    "Frame ID": 68,
+    "Left Knee Flexion": 179.54285810176322,
+    "Right Knee Flexion": 179.7620287722157
+  },
+  {
+    "Frame ID": 69,
+    "Left Knee Flexion": 179.13495317696254,
+    "Right Knee Flexion": 179.5991274894316
+  },
+  {
+    "Frame ID": 70,
+    "Left Knee Flexion": 179.88042556758973,
+    "Right Knee Flexion": 179.12938140814242
+  },
+  {
+    "Frame ID": 71,
+    "Left Knee Flexion": 179.6616301620289,
+    "Right Knee Flexion": 179.91260302310752
+  },
+  {
+    "Frame ID": 72,
+    "Left Knee Flexion": 179.97775706799175,
+    "Right Knee Flexion": 179.5938416102789
+  },
+  {
+    "Frame ID": 73,
+    "Left Knee Flexion": 179.50492249620237,
+    "Right Knee Flexion": 179.7572346817983
+  },
+  {
+    "Frame ID": 74,
+    "Left Knee Flexion": 179.86640603541312,
+    "Right Knee Flexion": 179.0810653904617
+  },
+  {
+    "Frame ID": 75,
+    "Left Knee Flexion": 179.74333877089109,
+    "Right Knee Flexion": 179.81035045346982
+  },
+  {
+    "Frame ID": 76,
+    "Left Knee Flexion": 178.66838755279255,
+    "Right Knee Flexion": 179.20266705684867
+  },
+  {
+    "Frame ID": 77,
+    "Left Knee Flexion": 179.1230122066024,
+    "Right Knee Flexion": 179.48730789580918
+  },
+  {
+    "Frame ID": 78,
+    "Left Knee Flexion": 179.45551620660635,
+    "Right Knee Flexion": 178.39787768215712
+  },
+  {
+    "Frame ID": 79,
+    "Left Knee Flexion": 179.01935116353087,
+    "Right Knee Flexion": 178.76525433956962
+  },
+  {
+    "Frame ID": 80,
+    "Left Knee Flexion": 179.72997691032185,
+    "Right Knee Flexion": 179.27828295121876
+  },
+  {
+    "Frame ID": 81,
+    "Left Knee Flexion": 179.482630808223,
+    "Right Knee Flexion": 178.94639325508743
+  },
+  {
+    "Frame ID": 82,
+    "Left Knee Flexion": 179.7012348717499,
+    "Right Knee Flexion": 179.64412383191868
+  },
+  {
+    "Frame ID": 83,
+    "Left Knee Flexion": 179.4670028053253,
+    "Right Knee Flexion": 179.9412180633179
+  },
+  {
+    "Frame ID": 84,
+    "Left Knee Flexion": 179.9153267135928,
+    "Right Knee Flexion": 179.725306902534
+  },
+  {
+    "Frame ID": 85,
+    "Left Knee Flexion": 179.82101716796535,
+    "Right Knee Flexion": 179.9269570322818
+  },
+  {
+    "Frame ID": 86,
+    "Left Knee Flexion": 178.0675891376392,
+    "Right Knee Flexion": 179.00524664615844
+  },
+  {
+    "Frame ID": 87,
+    "Left Knee Flexion": 178.77249667112554,
+    "Right Knee Flexion": 179.15271662546297
+  },
+  {
+    "Frame ID": 88,
+    "Left Knee Flexion": 179.19548016185976,
+    "Right Knee Flexion": 179.63909783434104
+  },
+  {
+    "Frame ID": 89,
+    "Left Knee Flexion": 178.92313013831395,
+    "Right Knee Flexion": 179.8078087281078
+  },
+  {
+    "Frame ID": 90,
+    "Left Knee Flexion": 178.80075877691328,
+    "Right Knee Flexion": 179.64197218331657
+  },
+  {
+    "Frame ID": 91,
+    "Left Knee Flexion": 178.19907684533044,
+    "Right Knee Flexion": 178.50002212209318
+  },
+  {
+    "Frame ID": 92,
+    "Left Knee Flexion": 179.71225392171849,
+    "Right Knee Flexion": 178.2120465048497
+  },
+  {
+    "Frame ID": 93,
+    "Left Knee Flexion": 178.74584597801254,
+    "Right Knee Flexion": 178.0361906346949
+  },
+  {
+    "Frame ID": 94,
+    "Left Knee Flexion": 178.27788563058323,
+    "Right Knee Flexion": 178.3795395014972
+  },
+  {
+    "Frame ID": 95,
+    "Left Knee Flexion": 178.37427614448805,
+    "Right Knee Flexion": 178.25879462015405
+  },
+  {
+    "Frame ID": 96,
+    "Left Knee Flexion": 178.86700473973497,
+    "Right Knee Flexion": 177.99573460660997
+  },
+  {
+    "Frame ID": 97,
+    "Left Knee Flexion": 178.793177156505,
+    "Right Knee Flexion": 178.08691004643885
+  },
+  {
+    "Frame ID": 98,
+    "Left Knee Flexion": 178.6490481072328,
+    "Right Knee Flexion": 177.0416349182187
+  },
+  {
+    "Frame ID": 99,
+    "Left Knee Flexion": 179.27832295791112,
+    "Right Knee Flexion": 178.51946523467382
+  },
+  {
+    "Frame ID": 100,
+    "Left Knee Flexion": 179.66204259237819,
+    "Right Knee Flexion": 177.5465874937656
+  },
+  {
+    "Frame ID": 101,
+    "Left Knee Flexion": 179.25518435225982,
+    "Right Knee Flexion": 177.37511053726575
+  },
+  {
+    "Frame ID": 102,
+    "Left Knee Flexion": 178.97866623438972,
+    "Right Knee Flexion": 176.717601068256
+  },
+  {
+    "Frame ID": 103,
+    "Left Knee Flexion": 178.72752981539088,
+    "Right Knee Flexion": 177.12321829410746
+  },
+  {
+    "Frame ID": 104,
+    "Left Knee Flexion": 178.96333195899325,
+    "Right Knee Flexion": 176.92864682596985
+  },
+  {
+    "Frame ID": 105,
+    "Left Knee Flexion": 178.4213213502587,
+    "Right Knee Flexion": 177.0811220640388
+  },
+  {
+    "Frame ID": 106,
+    "Left Knee Flexion": 178.53899031606872,
+    "Right Knee Flexion": 177.0101105484624
+  },
+  {
+    "Frame ID": 107,
+    "Left Knee Flexion": 177.40275800725468,
+    "Right Knee Flexion": 176.24678200820077
+  },
+  {
+    "Frame ID": 108,
+    "Left Knee Flexion": 177.4844057200979,
+    "Right Knee Flexion": 176.44286267682352
+  },
+  {
+    "Frame ID": 109,
+    "Left Knee Flexion": 176.42186713622775,
+    "Right Knee Flexion": 175.27534201389517
+  },
+  {
+    "Frame ID": 110,
+    "Left Knee Flexion": 175.55415765300387,
+    "Right Knee Flexion": 175.61224375470928
+  },
+  {
+    "Frame ID": 111,
+    "Left Knee Flexion": 175.90495070159847,
+    "Right Knee Flexion": 174.8090694205875
+  },
+  {
+    "Frame ID": 112,
+    "Left Knee Flexion": 173.92057260211817,
+    "Right Knee Flexion": 174.2579792961235
+  },
+  {
+    "Frame ID": 113,
+    "Left Knee Flexion": 172.93705484493782,
+    "Right Knee Flexion": 174.40660085360386
+  },
+  {
+    "Frame ID": 114,
+    "Left Knee Flexion": 171.988497671171,
+    "Right Knee Flexion": 171.8168138632501
+  },
+  {
+    "Frame ID": 115,
+    "Left Knee Flexion": 169.76646455202982,
+    "Right Knee Flexion": 172.30769706190236
+  },
+  {
+    "Frame ID": 116,
+    "Left Knee Flexion": 169.20712673093624,
+    "Right Knee Flexion": 171.3200831825092
+  },
+  {
+    "Frame ID": 117,
+    "Left Knee Flexion": 167.90032544804205,
+    "Right Knee Flexion": 170.2487057255636
+  },
+  {
+    "Frame ID": 118,
+    "Left Knee Flexion": 167.19451734565203,
+    "Right Knee Flexion": 169.35576138118253
+  },
+  {
+    "Frame ID": 119,
+    "Left Knee Flexion": 166.10936476941157,
+    "Right Knee Flexion": 168.22114053320274
+  },
+  {
+    "Frame ID": 120,
+    "Left Knee Flexion": 164.38588119858755,
+    "Right Knee Flexion": 168.55534594400453
+  },
+  {
+    "Frame ID": 121,
+    "Left Knee Flexion": 165.10488336769495,
+    "Right Knee Flexion": 166.71625669639278
+  },
+  {
+    "Frame ID": 122,
+    "Left Knee Flexion": 162.45072940931132,
+    "Right Knee Flexion": 164.71298020079462
+  },
+  {
+    "Frame ID": 123,
+    "Left Knee Flexion": 162.54925332326349,
+    "Right Knee Flexion": 163.12659249067107
+  },
+  {
+    "Frame ID": 124,
+    "Left Knee Flexion": 162.05004295847783,
+    "Right Knee Flexion": 161.72379174910722
+  },
+  {
+    "Frame ID": 125,
+    "Left Knee Flexion": 158.37466295732034,
+    "Right Knee Flexion": 160.0207166845223
+  },
+  {
+    "Frame ID": 126,
+    "Left Knee Flexion": 153.92735880999618,
+    "Right Knee Flexion": 157.7709432510513
+  },
+  {
+    "Frame ID": 127,
+    "Left Knee Flexion": 156.8941481656842,
+    "Right Knee Flexion": 152.5503677876466
+  },
+  {
+    "Frame ID": 128,
+    "Left Knee Flexion": 154.32388893963366,
+    "Right Knee Flexion": 155.45402809072948
+  },
+  {
+    "Frame ID": 129,
+    "Left Knee Flexion": 156.49138677658763,
+    "Right Knee Flexion": 155.8312798107768
+  },
+  {
+    "Frame ID": 130,
+    "Left Knee Flexion": 155.8169851876025,
+    "Right Knee Flexion": 157.68750312129347
+  },
+  {
+    "Frame ID": 131,
+    "Left Knee Flexion": 150.57732436993572,
+    "Right Knee Flexion": 156.06958585532448
+  },
+  {
+    "Frame ID": 132,
+    "Left Knee Flexion": 147.82070155592197,
+    "Right Knee Flexion": 154.5371296208342
+  },
+  {
+    "Frame ID": 133,
+    "Left Knee Flexion": 146.79015631011836,
+    "Right Knee Flexion": 152.1903506949979
+  },
+  {
+    "Frame ID": 134,
+    "Left Knee Flexion": 149.32709361491936,
+    "Right Knee Flexion": 154.62125656185512
+  },
+  {
+    "Frame ID": 135,
+    "Left Knee Flexion": 145.39745400613666,
+    "Right Knee Flexion": 150.47466092277799
+  },
+  {
+    "Frame ID": 136,
+    "Left Knee Flexion": 150.2293062095997,
+    "Right Knee Flexion": 155.02536664204163
+  },
+  {
+    "Frame ID": 137,
+    "Left Knee Flexion": 145.93463100287096,
+    "Right Knee Flexion": 153.95425002933948
+  },
+  {
+    "Frame ID": 138,
+    "Left Knee Flexion": 146.14193627598019,
+    "Right Knee Flexion": 153.31029125356696
+  },
+  {
+    "Frame ID": 139,
+    "Left Knee Flexion": 143.4317015801904,
+    "Right Knee Flexion": 153.84318094279354
+  },
+  {
+    "Frame ID": 140,
+    "Left Knee Flexion": 148.05854773513914,
+    "Right Knee Flexion": 154.38999171301998
+  },
+  {
+    "Frame ID": 141,
+    "Left Knee Flexion": 149.27982687560186,
+    "Right Knee Flexion": 152.2718470196413
+  },
+  {
+    "Frame ID": 142,
+    "Left Knee Flexion": 156.40527160499045,
+    "Right Knee Flexion": 154.56625058009797
+  },
+  {
+    "Frame ID": 143,
+    "Left Knee Flexion": 162.2648222342448,
+    "Right Knee Flexion": 155.62186082608085
+  },
+  {
+    "Frame ID": 144,
+    "Left Knee Flexion": 162.88534457514277,
+    "Right Knee Flexion": 156.50736856859402
+  },
+  {
+    "Frame ID": 145,
+    "Left Knee Flexion": 162.0390914907539,
+    "Right Knee Flexion": 162.42839709298477
+  },
+  {
+    "Frame ID": 146,
+    "Left Knee Flexion": 163.9008633824512,
+    "Right Knee Flexion": 164.18264698802778
+  },
+  {
+    "Frame ID": 147,
+    "Left Knee Flexion": 167.22262517195713,
+    "Right Knee Flexion": 166.65435672312967
+  },
+  {
+    "Frame ID": 148,
+    "Left Knee Flexion": 167.36691659524757,
+    "Right Knee Flexion": 168.1757139392116
+  },
+  {
+    "Frame ID": 149,
+    "Left Knee Flexion": 168.48938048556624,
+    "Right Knee Flexion": 169.65298131289876
+  },
+  {
+    "Frame ID": 150,
+    "Left Knee Flexion": 171.56801894702812,
+    "Right Knee Flexion": 169.90336656043462
+  },
+  {
+    "Frame ID": 151,
+    "Left Knee Flexion": 169.99948019726102,
+    "Right Knee Flexion": 170.89646870963026
+  },
+  {
+    "Frame ID": 152,
+    "Left Knee Flexion": 170.01180455014963,
+    "Right Knee Flexion": 171.4261444724243
+  },
+  {
+    "Frame ID": 153,
+    "Left Knee Flexion": 171.59930824515516,
+    "Right Knee Flexion": 173.10701974803422
+  },
+  {
+    "Frame ID": 154,
+    "Left Knee Flexion": 173.56493653583686,
+    "Right Knee Flexion": 172.96174524315745
+  },
+  {
+    "Frame ID": 155,
+    "Left Knee Flexion": 174.95369954426803,
+    "Right Knee Flexion": 174.01359014880478
+  },
+  {
+    "Frame ID": 156,
+    "Left Knee Flexion": 176.52710568257572,
+    "Right Knee Flexion": 174.14413605896058
+  },
+  {
+    "Frame ID": 157,
+    "Left Knee Flexion": 176.40313061086826,
+    "Right Knee Flexion": 175.91795285556688
+  },
+  {
+    "Frame ID": 158,
+    "Left Knee Flexion": 176.8672529302367,
+    "Right Knee Flexion": 176.62001879724357
+  },
+  {
+    "Frame ID": 159,
+    "Left Knee Flexion": 178.44717125745558,
+    "Right Knee Flexion": 177.2023309249134
+  },
+  {
+    "Frame ID": 160,
+    "Left Knee Flexion": 178.86304047540557,
+    "Right Knee Flexion": 177.23341821681817
+  },
+  {
+    "Frame ID": 161,
+    "Left Knee Flexion": 178.8971716125931,
+    "Right Knee Flexion": 178.07575437850136
+  },
+  {
+    "Frame ID": 162,
+    "Left Knee Flexion": 179.1427336189301,
+    "Right Knee Flexion": 178.16321083765038
+  },
+  {
+    "Frame ID": 163,
+    "Left Knee Flexion": 178.5030321006076,
+    "Right Knee Flexion": 178.3903685132174
+  },
+  {
+    "Frame ID": 164,
+    "Left Knee Flexion": 178.95453186246777,
+    "Right Knee Flexion": 177.93303907357873
+  },
+  {
+    "Frame ID": 165,
+    "Left Knee Flexion": 179.30953561998285,
+    "Right Knee Flexion": 177.85814634269383
+  },
+  {
+    "Frame ID": 166,
+    "Left Knee Flexion": 179.33987476467172,
+    "Right Knee Flexion": 178.83595741103284
+  },
+  {
+    "Frame ID": 167,
+    "Left Knee Flexion": 179.32867447971051,
+    "Right Knee Flexion": 177.6405153332729
+  },
+  {
+    "Frame ID": 168,
+    "Left Knee Flexion": 179.01239897218795,
+    "Right Knee Flexion": 178.42213542572412
+  },
+  {
+    "Frame ID": 169,
+    "Left Knee Flexion": 179.0980928344264,
+    "Right Knee Flexion": 177.98418936977615
+  },
+  {
+    "Frame ID": 170,
+    "Left Knee Flexion": 179.21787731296862,
+    "Right Knee Flexion": 177.4040511802392
+  },
+  {
+    "Frame ID": 171,
+    "Left Knee Flexion": 178.97824211378435,
+    "Right Knee Flexion": 177.3666989084438
+  },
+  {
+    "Frame ID": 172,
+    "Left Knee Flexion": 178.32471667291102,
+    "Right Knee Flexion": 177.33427630042058
+  },
+  {
+    "Frame ID": 173,
+    "Left Knee Flexion": 177.14635182103092,
+    "Right Knee Flexion": 177.81749423591862
+  },
+  {
+    "Frame ID": 174,
+    "Left Knee Flexion": 177.72386795863216,
+    "Right Knee Flexion": 176.68870909240624
+  },
+  {
+    "Frame ID": 175,
+    "Left Knee Flexion": 178.87141800705143,
+    "Right Knee Flexion": 174.93492997801053
+  },
+  {
+    "Frame ID": 176,
+    "Left Knee Flexion": 177.87790969252916,
+    "Right Knee Flexion": 175.91583007142387
+  },
+  {
+    "Frame ID": 177,
+    "Left Knee Flexion": 176.86859561385336,
+    "Right Knee Flexion": 175.65131326198662
+  },
+  {
+    "Frame ID": 178,
+    "Left Knee Flexion": 176.0816738047381,
+    "Right Knee Flexion": 174.98547586147822
+  },
+  {
+    "Frame ID": 179,
+    "Left Knee Flexion": 174.51525119850217,
+    "Right Knee Flexion": 173.5745333849275
+  },
+  {
+    "Frame ID": 180,
+    "Left Knee Flexion": 172.91129631701006,
+    "Right Knee Flexion": 173.024694735797
+  },
+  {
+    "Frame ID": 181,
+    "Left Knee Flexion": 170.47493221676606,
+    "Right Knee Flexion": 173.31549639748104
+  },
+  {
+    "Frame ID": 182,
+    "Left Knee Flexion": 169.14280358703286,
+    "Right Knee Flexion": 173.2016238770576
+  },
+  {
+    "Frame ID": 183,
+    "Left Knee Flexion": 168.0185689535572,
+    "Right Knee Flexion": 172.33071260304058
+  },
+  {
+    "Frame ID": 184,
+    "Left Knee Flexion": 167.79918860854443,
+    "Right Knee Flexion": 170.13050376749092
+  },
+  {
+    "Frame ID": 185,
+    "Left Knee Flexion": 166.7645986075873,
+    "Right Knee Flexion": 169.38115620010822
+  },
+  {
+    "Frame ID": 186,
+    "Left Knee Flexion": 164.34564672828878,
+    "Right Knee Flexion": 167.77813879423394
+  },
+  {
+    "Frame ID": 187,
+    "Left Knee Flexion": 164.4908598809455,
+    "Right Knee Flexion": 168.33257990890635
+  },
+  {
+    "Frame ID": 188,
+    "Left Knee Flexion": 163.32445898994072,
+    "Right Knee Flexion": 164.76806506848519
+  },
+  {
+    "Frame ID": 189,
+    "Left Knee Flexion": 161.07782067106234,
+    "Right Knee Flexion": 161.99027065568345
+  },
+  {
+    "Frame ID": 190,
+    "Left Knee Flexion": 161.62205574496048,
+    "Right Knee Flexion": 161.8221719917625
+  },
+  {
+    "Frame ID": 191,
+    "Left Knee Flexion": 158.49726716556196,
+    "Right Knee Flexion": 160.3925759036516
+  },
+  {
+    "Frame ID": 192,
+    "Left Knee Flexion": 158.04653832320534,
+    "Right Knee Flexion": 159.44245604488196
+  },
+  {
+    "Frame ID": 193,
+    "Left Knee Flexion": 156.9541087718232,
+    "Right Knee Flexion": 159.12874098389418
+  },
+  {
+    "Frame ID": 194,
+    "Left Knee Flexion": 153.8098388442572,
+    "Right Knee Flexion": 155.1448118906506
+  },
+  {
+    "Frame ID": 195,
+    "Left Knee Flexion": 151.53834758330103,
+    "Right Knee Flexion": 154.14654376722865
+  },
+  {
+    "Frame ID": 196,
+    "Left Knee Flexion": 150.55268750000363,
+    "Right Knee Flexion": 155.58306910221887
+  },
+  {
+    "Frame ID": 197,
+    "Left Knee Flexion": 150.60611486151427,
+    "Right Knee Flexion": 155.94703926947662
+  },
+  {
+    "Frame ID": 198,
+    "Left Knee Flexion": 147.8835224700516,
+    "Right Knee Flexion": 151.59514426279816
+  },
+  {
+    "Frame ID": 199,
+    "Left Knee Flexion": 145.59469066863628,
+    "Right Knee Flexion": 150.91583074992545
+  },
+  {
+    "Frame ID": 200,
+    "Left Knee Flexion": 143.66425920444652,
+    "Right Knee Flexion": 149.2218797116735
+  },
+  {
+    "Frame ID": 201,
+    "Left Knee Flexion": 140.03467838792687,
+    "Right Knee Flexion": 149.98099648450506
+  },
+  {
+    "Frame ID": 202,
+    "Left Knee Flexion": 145.7211497222781,
+    "Right Knee Flexion": 152.84248004326315
+  },
+  {
+    "Frame ID": 203,
+    "Left Knee Flexion": 143.50443100590968,
+    "Right Knee Flexion": 150.905506509189
+  },
+  {
+    "Frame ID": 204,
+    "Left Knee Flexion": 145.62460644824662,
+    "Right Knee Flexion": 152.77548889030007
+  },
+  {
+    "Frame ID": 205,
+    "Left Knee Flexion": 146.58283522529408,
+    "Right Knee Flexion": 150.98964289239234
+  },
+  {
+    "Frame ID": 206,
+    "Left Knee Flexion": 144.92371449413167,
+    "Right Knee Flexion": 151.40543552167438
+  },
+  {
+    "Frame ID": 207,
+    "Left Knee Flexion": 143.85290819198934,
+    "Right Knee Flexion": 149.76936868784975
+  },
+  {
+    "Frame ID": 208,
+    "Left Knee Flexion": 145.32714337563792,
+    "Right Knee Flexion": 153.70718641018624
+  },
+  {
+    "Frame ID": 209,
+    "Left Knee Flexion": 150.65769564457693,
+    "Right Knee Flexion": 156.52989707219945
+  },
+  {
+    "Frame ID": 210,
+    "Left Knee Flexion": 153.0110961917652,
+    "Right Knee Flexion": 156.91073937675046
+  },
+  {
+    "Frame ID": 211,
+    "Left Knee Flexion": 155.82710754525692,
+    "Right Knee Flexion": 160.44769610809294
+  },
+  {
+    "Frame ID": 212,
+    "Left Knee Flexion": 160.2362458538503,
+    "Right Knee Flexion": 162.52486405540623
+  },
+  {
+    "Frame ID": 213,
+    "Left Knee Flexion": 161.62625143813452,
+    "Right Knee Flexion": 165.52012359921852
+  },
+  {
+    "Frame ID": 214,
+    "Left Knee Flexion": 164.4677660101234,
+    "Right Knee Flexion": 167.18263098588176
+  },
+  {
+    "Frame ID": 215,
+    "Left Knee Flexion": 167.21962410689784,
+    "Right Knee Flexion": 169.7074970210167
+  },
+  {
+    "Frame ID": 216,
+    "Left Knee Flexion": 166.84933449092017,
+    "Right Knee Flexion": 169.56645019756277
+  },
+  {
+    "Frame ID": 217,
+    "Left Knee Flexion": 167.66980672504437,
+    "Right Knee Flexion": 172.05575600741852
+  },
+  {
+    "Frame ID": 218,
+    "Left Knee Flexion": 169.08220903773358,
+    "Right Knee Flexion": 174.07986957037173
+  },
+  {
+    "Frame ID": 219,
+    "Left Knee Flexion": 172.78500646889609,
+    "Right Knee Flexion": 174.3671117181323
+  },
+  {
+    "Frame ID": 220,
+    "Left Knee Flexion": 173.541796168178,
+    "Right Knee Flexion": 174.5335245404979
+  },
+  {
+    "Frame ID": 221,
+    "Left Knee Flexion": 176.7179732777999,
+    "Right Knee Flexion": 173.91605865796646
+  },
+  {
+    "Frame ID": 222,
+    "Left Knee Flexion": 177.77935598876002,
+    "Right Knee Flexion": 175.70150720350594
+  },
+  {
+    "Frame ID": 223,
+    "Left Knee Flexion": 178.6400468986155,
+    "Right Knee Flexion": 176.90725512293994
+  },
+  {
+    "Frame ID": 224,
+    "Left Knee Flexion": 177.90889435783745,
+    "Right Knee Flexion": 177.70487381695557
+  },
+  {
+    "Frame ID": 225,
+    "Left Knee Flexion": 178.49508199321846,
+    "Right Knee Flexion": 177.97966010905301
+  },
+  {
+    "Frame ID": 226,
+    "Left Knee Flexion": 178.94844387688823,
+    "Right Knee Flexion": 177.6171860077924
+  },
+  {
+    "Frame ID": 227,
+    "Left Knee Flexion": 179.31808428088925,
+    "Right Knee Flexion": 178.60822086884096
+  },
+  {
+    "Frame ID": 228,
+    "Left Knee Flexion": 179.17273876725648,
+    "Right Knee Flexion": 179.13295793332443
+  },
+  {
+    "Frame ID": 229,
+    "Left Knee Flexion": 179.4117468196653,
+    "Right Knee Flexion": 179.25228879395905
+  },
+  {
+    "Frame ID": 230,
+    "Left Knee Flexion": 179.34191491226173,
+    "Right Knee Flexion": 179.12553132199264
+  },
+  {
+    "Frame ID": 231,
+    "Left Knee Flexion": 179.88553490253747,
+    "Right Knee Flexion": 178.5622885504378
+  },
+  {
+    "Frame ID": 232,
+    "Left Knee Flexion": 179.37345535765186,
+    "Right Knee Flexion": 178.8465858812453
+  },
+  {
+    "Frame ID": 233,
+    "Left Knee Flexion": 179.33168865398295,
+    "Right Knee Flexion": 178.63812406328503
+  },
+  {
+    "Frame ID": 234,
+    "Left Knee Flexion": 179.5730213087153,
+    "Right Knee Flexion": 178.7333299464434
+  },
+  {
+    "Frame ID": 235,
+    "Left Knee Flexion": 179.42270936935623,
+    "Right Knee Flexion": 178.4214289226386
+  },
+  {
+    "Frame ID": 236,
+    "Left Knee Flexion": 179.52290751613205,
+    "Right Knee Flexion": 178.29693320868347
+  },
+  {
+    "Frame ID": 237,
+    "Left Knee Flexion": 178.6435420749464,
+    "Right Knee Flexion": 178.43866828483854
+  },
+  {
+    "Frame ID": 238,
+    "Left Knee Flexion": 178.2143689451127,
+    "Right Knee Flexion": 177.65890548531186
+  },
+  {
+    "Frame ID": 239,
+    "Left Knee Flexion": 178.24048915527786,
+    "Right Knee Flexion": 177.08649299931128
+  },
+  {
+    "Frame ID": 240,
+    "Left Knee Flexion": 177.87225312608055,
+    "Right Knee Flexion": 176.7567335677696
+  },
+  {
+    "Frame ID": 241,
+    "Left Knee Flexion": 178.3579286260065,
+    "Right Knee Flexion": 177.94450486653133
+  },
+  {
+    "Frame ID": 242,
+    "Left Knee Flexion": 177.88699678059848,
+    "Right Knee Flexion": 176.22251320943764
+  },
+  {
+    "Frame ID": 243,
+    "Left Knee Flexion": 177.21607411411108,
+    "Right Knee Flexion": 176.28242136109645
+  },
+  {
+    "Frame ID": 244,
+    "Left Knee Flexion": 175.30303762403415,
+    "Right Knee Flexion": 175.13367791600984
+  },
+  {
+    "Frame ID": 245,
+    "Left Knee Flexion": 174.76111770501535,
+    "Right Knee Flexion": 174.89011140299507
+  },
+  {
+    "Frame ID": 246,
+    "Left Knee Flexion": 173.066042062851,
+    "Right Knee Flexion": 174.01728181180744
+  },
+  {
+    "Frame ID": 247,
+    "Left Knee Flexion": 171.1864125697591,
+    "Right Knee Flexion": 172.75912702516297
+  },
+  {
+    "Frame ID": 248,
+    "Left Knee Flexion": 170.90239682574304,
+    "Right Knee Flexion": 171.89472578828773
+  },
+  {
+    "Frame ID": 249,
+    "Left Knee Flexion": 169.49645487708017,
+    "Right Knee Flexion": 171.67089216730758
+  },
+  {
+    "Frame ID": 250,
+    "Left Knee Flexion": 167.0467580634636,
+    "Right Knee Flexion": 171.12500275731614
+  },
+  {
+    "Frame ID": 251,
+    "Left Knee Flexion": 166.115354375789,
+    "Right Knee Flexion": 170.62848411919808
+  },
+  {
+    "Frame ID": 252,
+    "Left Knee Flexion": 167.21441566636264,
+    "Right Knee Flexion": 168.3686537658984
+  },
+  {
+    "Frame ID": 253,
+    "Left Knee Flexion": 166.18745057751912,
+    "Right Knee Flexion": 168.2201760969952
+  },
+  {
+    "Frame ID": 254,
+    "Left Knee Flexion": 163.12733505723762,
+    "Right Knee Flexion": 167.85759595918358
+  },
+  {
+    "Frame ID": 255,
+    "Left Knee Flexion": 162.27659755867774,
+    "Right Knee Flexion": 165.14475626369858
+  },
+  {
+    "Frame ID": 256,
+    "Left Knee Flexion": 161.976645748467,
+    "Right Knee Flexion": 164.92297155456427
+  },
+  {
+    "Frame ID": 257,
+    "Left Knee Flexion": 162.06579805312552,
+    "Right Knee Flexion": 165.2373890853464
+  },
+  {
+    "Frame ID": 258,
+    "Left Knee Flexion": 159.1420486595351,
+    "Right Knee Flexion": 164.1250864460322
+  },
+  {
+    "Frame ID": 259,
+    "Left Knee Flexion": 158.9451825696574,
+    "Right Knee Flexion": 162.5990758973864
+  },
+  {
+    "Frame ID": 260,
+    "Left Knee Flexion": 154.9567222143562,
+    "Right Knee Flexion": 159.90211075394046
+  },
+  {
+    "Frame ID": 261,
+    "Left Knee Flexion": 156.33668182169163,
+    "Right Knee Flexion": 158.53857158948387
+  },
+  {
+    "Frame ID": 262,
+    "Left Knee Flexion": 154.2097269000785,
+    "Right Knee Flexion": 157.90910217819237
+  },
+  {
+    "Frame ID": 263,
+    "Left Knee Flexion": 151.24990076402344,
+    "Right Knee Flexion": 154.6884660855236
+  },
+  {
+    "Frame ID": 264,
+    "Left Knee Flexion": 150.37460965676553,
+    "Right Knee Flexion": 153.55529120781586
+  },
+  {
+    "Frame ID": 265,
+    "Left Knee Flexion": 147.84957637107686,
+    "Right Knee Flexion": 153.65367041710283
+  },
+  {
+    "Frame ID": 266,
+    "Left Knee Flexion": 145.84759058544216,
+    "Right Knee Flexion": 155.04223938899594
+  },
+  {
+    "Frame ID": 267,
+    "Left Knee Flexion": 144.04330356127667,
+    "Right Knee Flexion": 153.13737395350057
+  },
+  {
+    "Frame ID": 268,
+    "Left Knee Flexion": 145.14012313801103,
+    "Right Knee Flexion": 151.81787770502476
+  },
+  {
+    "Frame ID": 269,
+    "Left Knee Flexion": 138.643035885549,
+    "Right Knee Flexion": 150.3016752707049
+  },
+  {
+    "Frame ID": 270,
+    "Left Knee Flexion": 144.0637281502605,
+    "Right Knee Flexion": 147.9922682992237
+  },
+  {
+    "Frame ID": 271,
+    "Left Knee Flexion": 144.10520038509216,
+    "Right Knee Flexion": 148.1643205849044
+  },
+  {
+    "Frame ID": 272,
+    "Left Knee Flexion": 142.6266598529694,
+    "Right Knee Flexion": 148.17083405678719
+  },
+  {
+    "Frame ID": 273,
+    "Left Knee Flexion": 138.77070064396426,
+    "Right Knee Flexion": 147.05020980934142
+  },
+  {
+    "Frame ID": 274,
+    "Left Knee Flexion": 136.01300557122673,
+    "Right Knee Flexion": 149.12981286474266
+  },
+  {
+    "Frame ID": 275,
+    "Left Knee Flexion": 141.13773298592866,
+    "Right Knee Flexion": 148.78283409283787
+  },
+  {
+    "Frame ID": 276,
+    "Left Knee Flexion": 145.02398842286897,
+    "Right Knee Flexion": 150.60326569088662
+  },
+  {
+    "Frame ID": 277,
+    "Left Knee Flexion": 134.61021456013333,
+    "Right Knee Flexion": 147.1711129208932
+  },
+  {
+    "Frame ID": 278,
+    "Left Knee Flexion": 141.54099429772228,
+    "Right Knee Flexion": 149.2838132847383
+  },
+  {
+    "Frame ID": 279,
+    "Left Knee Flexion": 143.12727946134058,
+    "Right Knee Flexion": 145.75765095681626
+  },
+  {
+    "Frame ID": 280,
+    "Left Knee Flexion": 147.53957137282325,
+    "Right Knee Flexion": 151.36738399535272
+  },
+  {
+    "Frame ID": 281,
+    "Left Knee Flexion": 151.2561522828268,
+    "Right Knee Flexion": 155.51245857013674
+  },
+  {
+    "Frame ID": 282,
+    "Left Knee Flexion": 155.33019114483528,
+    "Right Knee Flexion": 157.32966036989978
+  },
+  {
+    "Frame ID": 283,
+    "Left Knee Flexion": 157.08723864689983,
+    "Right Knee Flexion": 159.29969542544595
+  },
+  {
+    "Frame ID": 284,
+    "Left Knee Flexion": 160.72265920106983,
+    "Right Knee Flexion": 162.47186597058328
+  },
+  {
+    "Frame ID": 285,
+    "Left Knee Flexion": 164.78967961166367,
+    "Right Knee Flexion": 164.90221594525255
+  },
+  {
+    "Frame ID": 286,
+    "Left Knee Flexion": 164.75706129045088,
+    "Right Knee Flexion": 167.65776433219546
+  },
+  {
+    "Frame ID": 287,
+    "Left Knee Flexion": 164.7112309171746,
+    "Right Knee Flexion": 170.430900817234
+  },
+  {
+    "Frame ID": 288,
+    "Left Knee Flexion": 167.48867900728644,
+    "Right Knee Flexion": 169.83252927073528
+  },
+  {
+    "Frame ID": 289,
+    "Left Knee Flexion": 169.96509783965064,
+    "Right Knee Flexion": 171.0114316690161
+  },
+  {
+    "Frame ID": 290,
+    "Left Knee Flexion": 169.39004528581043,
+    "Right Knee Flexion": 171.66057279978915
+  },
+  {
+    "Frame ID": 291,
+    "Left Knee Flexion": 172.20942888272126,
+    "Right Knee Flexion": 173.19618515083386
+  },
+  {
+    "Frame ID": 292,
+    "Left Knee Flexion": 171.93633303880534,
+    "Right Knee Flexion": 171.8877225717479
+  },
+  {
+    "Frame ID": 293,
+    "Left Knee Flexion": 173.95573105313332,
+    "Right Knee Flexion": 174.39505514431664
+  },
+  {
+    "Frame ID": 294,
+    "Left Knee Flexion": 176.37411869266808,
+    "Right Knee Flexion": 173.5913403997847
+  },
+  {
+    "Frame ID": 295,
+    "Left Knee Flexion": 177.78582660687061,
+    "Right Knee Flexion": 175.95491507724583
+  },
+  {
+    "Frame ID": 296,
+    "Left Knee Flexion": 178.2956577872935,
+    "Right Knee Flexion": 176.34134426743424
+  },
+  {
+    "Frame ID": 297,
+    "Left Knee Flexion": 179.0696389961714,
+    "Right Knee Flexion": 176.99148122952357
+  },
+  {
+    "Frame ID": 298,
+    "Left Knee Flexion": 178.44192089682278,
+    "Right Knee Flexion": 177.88999064390828
+  },
+  {
+    "Frame ID": 299,
+    "Left Knee Flexion": 179.29193714178706,
+    "Right Knee Flexion": 178.3719207420931
+  },
+  {
+    "Frame ID": 300,
+    "Left Knee Flexion": 179.0512145782422,
+    "Right Knee Flexion": 178.44082610103288
+  },
+  {
+    "Frame ID": 301,
+    "Left Knee Flexion": 179.13107151587826,
+    "Right Knee Flexion": 178.65601527270917
+  },
+  {
+    "Frame ID": 302,
+    "Left Knee Flexion": 179.38533195343248,
+    "Right Knee Flexion": 178.92203958059395
+  },
+  {
+    "Frame ID": 303,
+    "Left Knee Flexion": 179.4291521309505,
+    "Right Knee Flexion": 178.34136788766696
+  },
+  {
+    "Frame ID": 304,
+    "Left Knee Flexion": 179.26111324874057,
+    "Right Knee Flexion": 178.3636769305817
+  },
+  {
+    "Frame ID": 305,
+    "Left Knee Flexion": 179.65054058213835,
+    "Right Knee Flexion": 178.24714063214873
+  },
+  {
+    "Frame ID": 306,
+    "Left Knee Flexion": 178.9643900530833,
+    "Right Knee Flexion": 178.36085475953485
+  },
+  {
+    "Frame ID": 307,
+    "Left Knee Flexion": 179.84892946706657,
+    "Right Knee Flexion": 178.64250438955767
+  },
+  {
+    "Frame ID": 308,
+    "Left Knee Flexion": 179.5102366393899,
+    "Right Knee Flexion": 178.75318163880425
+  },
+  {
+    "Frame ID": 309,
+    "Left Knee Flexion": 179.5725068877069,
+    "Right Knee Flexion": 178.51115612842375
+  },
+  {
+    "Frame ID": 310,
+    "Left Knee Flexion": 178.84080207409713,
+    "Right Knee Flexion": 177.5718709056106
+  },
+  {
+    "Frame ID": 311,
+    "Left Knee Flexion": 178.87213995859082,
+    "Right Knee Flexion": 177.08050976447933
+  },
+  {
+    "Frame ID": 312,
+    "Left Knee Flexion": 177.71992142921349,
+    "Right Knee Flexion": 176.89399230230538
+  },
+  {
+    "Frame ID": 313,
+    "Left Knee Flexion": 177.51013741792914,
+    "Right Knee Flexion": 176.452586486058
+  },
+  {
+    "Frame ID": 314,
+    "Left Knee Flexion": 176.49917849812607,
+    "Right Knee Flexion": 176.19252812101308
+  },
+  {
+    "Frame ID": 315,
+    "Left Knee Flexion": 177.05281232784685,
+    "Right Knee Flexion": 174.84290502945194
+  },
+  {
+    "Frame ID": 316,
+    "Left Knee Flexion": 175.71020744437234,
+    "Right Knee Flexion": 174.597768692884
+  },
+  {
+    "Frame ID": 317,
+    "Left Knee Flexion": 174.8815251715442,
+    "Right Knee Flexion": 174.2410621905079
+  },
+  {
+    "Frame ID": 318,
+    "Left Knee Flexion": 173.71284540787448,
+    "Right Knee Flexion": 173.75843447064753
+  },
+  {
+    "Frame ID": 319,
+    "Left Knee Flexion": 172.17335588626042,
+    "Right Knee Flexion": 172.5705368890823
+  },
+  {
+    "Frame ID": 320,
+    "Left Knee Flexion": 171.28031800418205,
+    "Right Knee Flexion": 173.1199712523824
+  },
+  {
+    "Frame ID": 321,
+    "Left Knee Flexion": 170.44668887629933,
+    "Right Knee Flexion": 172.83964187556
+  },
+  {
+    "Frame ID": 322,
+    "Left Knee Flexion": 168.0219367758366,
+    "Right Knee Flexion": 172.09177224933677
+  },
+  {
+    "Frame ID": 323,
+    "Left Knee Flexion": 167.08334244072685,
+    "Right Knee Flexion": 171.30137885083587
+  },
+  {
+    "Frame ID": 324,
+    "Left Knee Flexion": 167.53410819002542,
+    "Right Knee Flexion": 169.01295359529084
+  },
+  {
+    "Frame ID": 325,
+    "Left Knee Flexion": 165.80206546916347,
+    "Right Knee Flexion": 169.57949476756102
+  },
+  {
+    "Frame ID": 326,
+    "Left Knee Flexion": 165.9634550584166,
+    "Right Knee Flexion": 168.12164772583864
+  },
+  {
+    "Frame ID": 327,
+    "Left Knee Flexion": 165.8093033314611,
+    "Right Knee Flexion": 167.28604468542355
+  },
+  {
+    "Frame ID": 328,
+    "Left Knee Flexion": 163.66256988686175,
+    "Right Knee Flexion": 165.0948640506463
+  },
+  {
+    "Frame ID": 329,
+    "Left Knee Flexion": 161.42172008508794,
+    "Right Knee Flexion": 164.30225226639283
+  },
+  {
+    "Frame ID": 330,
+    "Left Knee Flexion": 160.13901882593854,
+    "Right Knee Flexion": 161.9888694657046
+  },
+  {
+    "Frame ID": 331,
+    "Left Knee Flexion": 158.63130986480638,
+    "Right Knee Flexion": 158.9084609087476
+  },
+  {
+    "Frame ID": 332,
+    "Left Knee Flexion": 156.1538953901453,
+    "Right Knee Flexion": 155.7918801445143
+  },
+  {
+    "Frame ID": 333,
+    "Left Knee Flexion": 153.78539694340466,
+    "Right Knee Flexion": 152.9446798566647
+  },
+  {
+    "Frame ID": 334,
+    "Left Knee Flexion": 150.45381665807804,
+    "Right Knee Flexion": 153.68878397593807
+  },
+  {
+    "Frame ID": 335,
+    "Left Knee Flexion": 150.70711142157705,
+    "Right Knee Flexion": 153.79809813729568
+  },
+  {
+    "Frame ID": 336,
+    "Left Knee Flexion": 142.95693500108118,
+    "Right Knee Flexion": 154.95449528025964
+  },
+  {
+    "Frame ID": 337,
+    "Left Knee Flexion": 144.67351009770286,
+    "Right Knee Flexion": 151.76077151402208
+  },
+  {
+    "Frame ID": 338,
+    "Left Knee Flexion": 143.27919654818706,
+    "Right Knee Flexion": 146.12383662541225
+  },
+  {
+    "Frame ID": 339,
+    "Left Knee Flexion": 143.41535429373485,
+    "Right Knee Flexion": 151.24804994590613
+  },
+  {
+    "Frame ID": 340,
+    "Left Knee Flexion": 142.58003660913468,
+    "Right Knee Flexion": 149.58081967324773
+  },
+  {
+    "Frame ID": 341,
+    "Left Knee Flexion": 144.22567803083678,
+    "Right Knee Flexion": 148.89509422498108
+  },
+  {
+    "Frame ID": 342,
+    "Left Knee Flexion": 144.6271161016037,
+    "Right Knee Flexion": 148.82280000342905
+  },
+  {
+    "Frame ID": 343,
+    "Left Knee Flexion": 145.7304483492811,
+    "Right Knee Flexion": 148.8808107923528
+  },
+  {
+    "Frame ID": 344,
+    "Left Knee Flexion": 144.5786134334782,
+    "Right Knee Flexion": 148.65008237088142
+  },
+  {
+    "Frame ID": 345,
+    "Left Knee Flexion": 143.4852685444486,
+    "Right Knee Flexion": 147.14440178499618
+  },
+  {
+    "Frame ID": 346,
+    "Left Knee Flexion": 141.19735309939531,
+    "Right Knee Flexion": 150.7001370203537
+  },
+  {
+    "Frame ID": 347,
+    "Left Knee Flexion": 142.7850899748978,
+    "Right Knee Flexion": 148.39603041561048
+  },
+  {
+    "Frame ID": 348,
+    "Left Knee Flexion": 144.97491479681037,
+    "Right Knee Flexion": 147.0808766121116
+  },
+  {
+    "Frame ID": 349,
+    "Left Knee Flexion": 146.7097053149391,
+    "Right Knee Flexion": 150.57630604860987
+  },
+  {
+    "Frame ID": 350,
+    "Left Knee Flexion": 149.04359539345936,
+    "Right Knee Flexion": 156.30824229969755
+  },
+  {
+    "Frame ID": 351,
+    "Left Knee Flexion": 154.21891440775434,
+    "Right Knee Flexion": 154.670880563218
+  },
+  {
+    "Frame ID": 352,
+    "Left Knee Flexion": 156.42197667465948,
+    "Right Knee Flexion": 158.0881525017753
+  },
+  {
+    "Frame ID": 353,
+    "Left Knee Flexion": 155.09838818280508,
+    "Right Knee Flexion": 157.9339564987779
+  },
+  {
+    "Frame ID": 354,
+    "Left Knee Flexion": 161.76659143808888,
+    "Right Knee Flexion": 163.48546916131167
+  },
+  {
+    "Frame ID": 355,
+    "Left Knee Flexion": 162.88802257376807,
+    "Right Knee Flexion": 165.4669638678093
+  },
+  {
+    "Frame ID": 356,
+    "Left Knee Flexion": 164.5664174079531,
+    "Right Knee Flexion": 167.87469221340723
+  },
+  {
+    "Frame ID": 357,
+    "Left Knee Flexion": 165.69033060446856,
+    "Right Knee Flexion": 169.92623834633469
+  },
+  {
+    "Frame ID": 358,
+    "Left Knee Flexion": 168.97079268807877,
+    "Right Knee Flexion": 170.77194210641443
+  },
+  {
+    "Frame ID": 359,
+    "Left Knee Flexion": 169.41479583088997,
+    "Right Knee Flexion": 170.7816893198657
+  },
+  {
+    "Frame ID": 360,
+    "Left Knee Flexion": 171.36833252273468,
+    "Right Knee Flexion": 171.34436416332863
+  },
+  {
+    "Frame ID": 361,
+    "Left Knee Flexion": 171.79189191480552,
+    "Right Knee Flexion": 172.69590494156876
+  },
+  {
+    "Frame ID": 362,
+    "Left Knee Flexion": 173.7117066951255,
+    "Right Knee Flexion": 173.6413923936923
+  },
+  {
+    "Frame ID": 363,
+    "Left Knee Flexion": 175.34836249508717,
+    "Right Knee Flexion": 174.34345168003892
+  },
+  {
+    "Frame ID": 364,
+    "Left Knee Flexion": 177.0450578156626,
+    "Right Knee Flexion": 175.08280172418878
+  },
+  {
+    "Frame ID": 365,
+    "Left Knee Flexion": 177.135936431189,
+    "Right Knee Flexion": 176.08174828099422
+  },
+  {
+    "Frame ID": 366,
+    "Left Knee Flexion": 178.24718867516805,
+    "Right Knee Flexion": 176.55061489993344
+  },
+  {
+    "Frame ID": 367,
+    "Left Knee Flexion": 178.2241476270857,
+    "Right Knee Flexion": 177.98829805592553
+  },
+  {
+    "Frame ID": 368,
+    "Left Knee Flexion": 179.14787826919587,
+    "Right Knee Flexion": 178.19171294921856
+  },
+  {
+    "Frame ID": 369,
+    "Left Knee Flexion": 179.3821048473294,
+    "Right Knee Flexion": 179.18233063995382
+  },
+  {
+    "Frame ID": 370,
+    "Left Knee Flexion": 179.86853218294667,
+    "Right Knee Flexion": 178.1440305162984
+  },
+  {
+    "Frame ID": 371,
+    "Left Knee Flexion": 179.85390311577072,
+    "Right Knee Flexion": 178.48292336534746
+  },
+  {
+    "Frame ID": 372,
+    "Left Knee Flexion": 179.7052129325111,
+    "Right Knee Flexion": 179.0563106888151
+  },
+  {
+    "Frame ID": 373,
+    "Left Knee Flexion": 179.96035185547362,
+    "Right Knee Flexion": 178.56155103521726
+  },
+  {
+    "Frame ID": 374,
+    "Left Knee Flexion": 179.70544920591053,
+    "Right Knee Flexion": 179.00164615604794
+  },
+  {
+    "Frame ID": 375,
+    "Left Knee Flexion": 179.51456436694994,
+    "Right Knee Flexion": 178.46641065717847
+  },
+  {
+    "Frame ID": 376,
+    "Left Knee Flexion": 179.85083731401343,
+    "Right Knee Flexion": 178.4050014354469
+  },
+  {
+    "Frame ID": 377,
+    "Left Knee Flexion": 179.95035573068006,
+    "Right Knee Flexion": 178.2304614431894
+  },
+  {
+    "Frame ID": 378,
+    "Left Knee Flexion": 179.4241449119322,
+    "Right Knee Flexion": 177.7238269324879
+  },
+  {
+    "Frame ID": 379,
+    "Left Knee Flexion": 178.4486548271346,
+    "Right Knee Flexion": 177.93371894382355
+  },
+  {
+    "Frame ID": 380,
+    "Left Knee Flexion": 178.71477964020625,
+    "Right Knee Flexion": 177.5988539850238
+  },
+  {
+    "Frame ID": 381,
+    "Left Knee Flexion": 178.41623866092465,
+    "Right Knee Flexion": 177.52775475580572
+  },
+  {
+    "Frame ID": 382,
+    "Left Knee Flexion": 178.39963641108906,
+    "Right Knee Flexion": 177.4126015144909
+  },
+  {
+    "Frame ID": 383,
+    "Left Knee Flexion": 177.5047721675571,
+    "Right Knee Flexion": 176.6353013629959
+  },
+  {
+    "Frame ID": 384,
+    "Left Knee Flexion": 177.78152816012414,
+    "Right Knee Flexion": 175.11650761758688
+  },
+  {
+    "Frame ID": 385,
+    "Left Knee Flexion": 176.82963010801865,
+    "Right Knee Flexion": 174.6634892543507
+  },
+  {
+    "Frame ID": 386,
+    "Left Knee Flexion": 175.20883112215844,
+    "Right Knee Flexion": 173.5072015909498
+  },
+  {
+    "Frame ID": 387,
+    "Left Knee Flexion": 172.3201489558122,
+    "Right Knee Flexion": 173.41285963443497
+  },
+  {
+    "Frame ID": 388,
+    "Left Knee Flexion": 171.45042560108092,
+    "Right Knee Flexion": 173.24173078816798
+  },
+  {
+    "Frame ID": 389,
+    "Left Knee Flexion": 169.69665986066957,
+    "Right Knee Flexion": 172.70860913381813
+  },
+  {
+    "Frame ID": 390,
+    "Left Knee Flexion": 168.65065019279172,
+    "Right Knee Flexion": 171.64385823034058
+  },
+  {
+    "Frame ID": 391,
+    "Left Knee Flexion": 166.49830598871446,
+    "Right Knee Flexion": 169.7017475995844
+  },
+  {
+    "Frame ID": 392,
+    "Left Knee Flexion": 164.3574449875485,
+    "Right Knee Flexion": 168.9783188862081
+  },
+  {
+    "Frame ID": 393,
+    "Left Knee Flexion": 164.837017510283,
+    "Right Knee Flexion": 169.3232438653443
+  },
+  {
+    "Frame ID": 394,
+    "Left Knee Flexion": 165.32938244043558,
+    "Right Knee Flexion": 168.66126899435486
+  },
+  {
+    "Frame ID": 395,
+    "Left Knee Flexion": 162.71525468358678,
+    "Right Knee Flexion": 166.10144070621362
+  },
+  {
+    "Frame ID": 396,
+    "Left Knee Flexion": 161.52336413370512,
+    "Right Knee Flexion": 164.92609704423606
+  },
+  {
+    "Frame ID": 397,
+    "Left Knee Flexion": 159.24775041985035,
+    "Right Knee Flexion": 163.44605666561824
+  },
+  {
+    "Frame ID": 398,
+    "Left Knee Flexion": 158.04158163662277,
+    "Right Knee Flexion": 160.24247176294202
+  },
+  {
+    "Frame ID": 399,
+    "Left Knee Flexion": 156.01180219461105,
+    "Right Knee Flexion": 159.59732606037485
+  },
+  {
+    "Frame ID": 400,
+    "Left Knee Flexion": 152.8435609928356,
+    "Right Knee Flexion": 155.05450331869977
+  },
+  {
+    "Frame ID": 401,
+    "Left Knee Flexion": 150.0075299042462,
+    "Right Knee Flexion": 155.9153414116047
+  },
+  {
+    "Frame ID": 402,
+    "Left Knee Flexion": 148.9066862646716,
+    "Right Knee Flexion": 150.51368406939966
+  },
+  {
+    "Frame ID": 403,
+    "Left Knee Flexion": 144.69937922508282,
+    "Right Knee Flexion": 151.12739296940484
+  },
+  {
+    "Frame ID": 404,
+    "Left Knee Flexion": 144.1512082059476,
+    "Right Knee Flexion": 153.24937935837204
+  },
+  {
+    "Frame ID": 405,
+    "Left Knee Flexion": 141.31608970853202,
+    "Right Knee Flexion": 150.34315031231276
+  },
+  {
+    "Frame ID": 406,
+    "Left Knee Flexion": 139.76617796950305,
+    "Right Knee Flexion": 148.68275625587282
+  },
+  {
+    "Frame ID": 407,
+    "Left Knee Flexion": 140.43585947028538,
+    "Right Knee Flexion": 149.59921675446577
+  },
+  {
+    "Frame ID": 408,
+    "Left Knee Flexion": 141.67060617945526,
+    "Right Knee Flexion": 146.58050478026433
+  },
+  {
+    "Frame ID": 409,
+    "Left Knee Flexion": 141.92268738007485,
+    "Right Knee Flexion": 148.67947680174044
+  },
+  {
+    "Frame ID": 410,
+    "Left Knee Flexion": 143.54244282248249,
+    "Right Knee Flexion": 150.91022211579255
+  },
+  {
+    "Frame ID": 411,
+    "Left Knee Flexion": 145.17282703616561,
+    "Right Knee Flexion": 146.30444106472834
+  },
+  {
+    "Frame ID": 412,
+    "Left Knee Flexion": 146.85363505993467,
+    "Right Knee Flexion": 146.98081950761627
+  },
+  {
+    "Frame ID": 413,
+    "Left Knee Flexion": 145.1704964548376,
+    "Right Knee Flexion": 146.36555177983468
+  },
+  {
+    "Frame ID": 414,
+    "Left Knee Flexion": 144.84941712375493,
+    "Right Knee Flexion": 145.59634285563754
+  },
+  {
+    "Frame ID": 415,
+    "Left Knee Flexion": 145.3116767823966,
+    "Right Knee Flexion": 145.79722753120333
+  },
+  {
+    "Frame ID": 416,
+    "Left Knee Flexion": 143.48677309070905,
+    "Right Knee Flexion": 147.81649323013542
+  },
+  {
+    "Frame ID": 417,
+    "Left Knee Flexion": 144.27490639710413,
+    "Right Knee Flexion": 148.62272050760518
+  },
+  {
+    "Frame ID": 418,
+    "Left Knee Flexion": 142.51950095033752,
+    "Right Knee Flexion": 147.25530384870086
+  },
+  {
+    "Frame ID": 419,
+    "Left Knee Flexion": 143.73381458781648,
+    "Right Knee Flexion": 150.18517932712953
+  },
+  {
+    "Frame ID": 420,
+    "Left Knee Flexion": 145.7837773934242,
+    "Right Knee Flexion": 150.85557155964008
+  },
+  {
+    "Frame ID": 421,
+    "Left Knee Flexion": 149.80925788025476,
+    "Right Knee Flexion": 151.84071140851051
+  },
+  {
+    "Frame ID": 422,
+    "Left Knee Flexion": 149.46612221053635,
+    "Right Knee Flexion": 150.47756594643158
+  },
+  {
+    "Frame ID": 423,
+    "Left Knee Flexion": 150.5794508560842,
+    "Right Knee Flexion": 150.91439359154703
+  },
+  {
+    "Frame ID": 424,
+    "Left Knee Flexion": 151.03403835080155,
+    "Right Knee Flexion": 151.40283473566234
+  },
+  {
+    "Frame ID": 425,
+    "Left Knee Flexion": 151.04657774189647,
+    "Right Knee Flexion": 153.13915934868993
+  },
+  {
+    "Frame ID": 426,
+    "Left Knee Flexion": 150.43785675731758,
+    "Right Knee Flexion": 151.61292646716424
+  },
+  {
+    "Frame ID": 427,
+    "Left Knee Flexion": 153.82945291239494,
+    "Right Knee Flexion": 151.60094738211123
+  },
+  {
+    "Frame ID": 428,
+    "Left Knee Flexion": 152.95719750758636,
+    "Right Knee Flexion": 151.68185438631895
+  },
+  {
+    "Frame ID": 429,
+    "Left Knee Flexion": 154.26543645797432,
+    "Right Knee Flexion": 151.9839026287715
+  },
+  {
+    "Frame ID": 430,
+    "Left Knee Flexion": 153.86401050393889,
+    "Right Knee Flexion": 150.03173932418687
+  },
+  {
+    "Frame ID": 431,
+    "Left Knee Flexion": 152.43072232084353,
+    "Right Knee Flexion": 150.29487188759757
+  },
+  {
+    "Frame ID": 432,
+    "Left Knee Flexion": 150.93407360935794,
+    "Right Knee Flexion": 150.14008304884132
+  },
+  {
+    "Frame ID": 433,
+    "Left Knee Flexion": 150.98480890298003,
+    "Right Knee Flexion": 150.11295488572588
+  },
+  {
+    "Frame ID": 434,
+    "Left Knee Flexion": 150.83609324714098,
+    "Right Knee Flexion": 150.6350353541352
+  },
+  {
+    "Frame ID": 435,
+    "Left Knee Flexion": 152.30419832101097,
+    "Right Knee Flexion": 151.37703911428625
+  },
+  {
+    "Frame ID": 436,
+    "Left Knee Flexion": 153.3377721717404,
+    "Right Knee Flexion": 152.58561556270448
+  },
+  {
+    "Frame ID": 437,
+    "Left Knee Flexion": 153.2743601766786,
+    "Right Knee Flexion": 152.6589400748525
+  },
+  {
+    "Frame ID": 438,
+    "Left Knee Flexion": 151.87820359936123,
+    "Right Knee Flexion": 151.4234103889116
+  },
+  {
+    "Frame ID": 439,
+    "Left Knee Flexion": 150.6178318546598,
+    "Right Knee Flexion": 154.65140272974304
+  },
+  {
+    "Frame ID": 440,
+    "Left Knee Flexion": 152.79060595919702,
+    "Right Knee Flexion": 151.5944981780131
+  },
+  {
+    "Frame ID": 441,
+    "Left Knee Flexion": 153.68389195773466,
+    "Right Knee Flexion": 151.7649362980298
+  },
+  {
+    "Frame ID": 442,
+    "Left Knee Flexion": 154.67526101627294,
+    "Right Knee Flexion": 152.34014816072417
+  },
+  {
+    "Frame ID": 443,
+    "Left Knee Flexion": 152.62221926314928,
+    "Right Knee Flexion": 151.75498161437974
+  },
+  {
+    "Frame ID": 444,
+    "Left Knee Flexion": 152.9037830550081,
+    "Right Knee Flexion": 153.70428100317085
+  },
+  {
+    "Frame ID": 445,
+    "Left Knee Flexion": 151.1902880038181,
+    "Right Knee Flexion": 151.28945274533058
+  },
+  {
+    "Frame ID": 446,
+    "Left Knee Flexion": 151.06503150781614,
+    "Right Knee Flexion": 153.30781879557603
+  },
+  {
+    "Frame ID": 447,
+    "Left Knee Flexion": 151.48944992579152,
+    "Right Knee Flexion": 154.4156531364089
+  },
+  {
+    "Frame ID": 448,
+    "Left Knee Flexion": 153.70532556031205,
+    "Right Knee Flexion": 153.28944741589672
+  },
+  {
+    "Frame ID": 449,
+    "Left Knee Flexion": 153.04215522735785,
+    "Right Knee Flexion": 154.74723520559004
+  },
+  {
+    "Frame ID": 450,
+    "Left Knee Flexion": 154.87342369525396,
+    "Right Knee Flexion": 155.1528687691266
+  },
+  {
+    "Frame ID": 451,
+    "Left Knee Flexion": 154.01092600004037,
+    "Right Knee Flexion": 152.4138115383502
+  },
+  {
+    "Frame ID": 452,
+    "Left Knee Flexion": 153.74903650402976,
+    "Right Knee Flexion": 152.7317583775011
+  },
+  {
+    "Frame ID": 453,
+    "Left Knee Flexion": 155.67295124640054,
+    "Right Knee Flexion": 155.01724003730175
+  },
+  {
+    "Frame ID": 454,
+    "Left Knee Flexion": 155.31177945197715,
+    "Right Knee Flexion": 154.56236929668287
+  },
+  {
+    "Frame ID": 455,
+    "Left Knee Flexion": 153.87315555762746,
+    "Right Knee Flexion": 153.16456231933935
+  },
+  {
+    "Frame ID": 456,
+    "Left Knee Flexion": 154.58997788648898,
+    "Right Knee Flexion": 153.6890483899095
+  },
+  {
+    "Frame ID": 457,
+    "Left Knee Flexion": 155.3164092815199,
+    "Right Knee Flexion": 154.08191372884758
+  },
+  {
+    "Frame ID": 458,
+    "Left Knee Flexion": 153.00341159772134,
+    "Right Knee Flexion": 153.2413895851254
+  },
+  {
+    "Frame ID": 459,
+    "Left Knee Flexion": 153.10523049130794,
+    "Right Knee Flexion": 152.91946385316012
+  },
+  {
+    "Frame ID": 460,
+    "Left Knee Flexion": 152.9209964251775,
+    "Right Knee Flexion": 154.03732560934745
+  },
+  {
+    "Frame ID": 461,
+    "Left Knee Flexion": 153.7828403041353,
+    "Right Knee Flexion": 154.83249736936554
+  },
+  {
+    "Frame ID": 462,
+    "Left Knee Flexion": 153.8768336183725,
+    "Right Knee Flexion": 155.09910405131126
+  },
+  {
+    "Frame ID": 463,
+    "Left Knee Flexion": 154.750963353879,
+    "Right Knee Flexion": 155.61421844996585
+  },
+  {
+    "Frame ID": 464,
+    "Left Knee Flexion": 153.6343349492571,
+    "Right Knee Flexion": 155.62008482147561
+  },
+  {
+    "Frame ID": 465,
+    "Left Knee Flexion": 154.63963499316066,
+    "Right Knee Flexion": 157.68265403097536
+  },
+  {
+    "Frame ID": 466,
+    "Left Knee Flexion": 153.5532162913026,
+    "Right Knee Flexion": 157.0385733901098
+  },
+  {
+    "Frame ID": 467,
+    "Left Knee Flexion": 153.0008067459688,
+    "Right Knee Flexion": 157.67077869939948
+  },
+  {
+    "Frame ID": 468,
+    "Left Knee Flexion": 153.05083252437188,
+    "Right Knee Flexion": 156.6990871470904
+  },
+  {
+    "Frame ID": 469,
+    "Left Knee Flexion": 153.2537986076418,
+    "Right Knee Flexion": 157.21888881368133
+  },
+  {
+    "Frame ID": 470,
+    "Left Knee Flexion": 155.1531852328716,
+    "Right Knee Flexion": 156.9076246632305
+  },
+  {
+    "Frame ID": 471,
+    "Left Knee Flexion": 153.34671725858743,
+    "Right Knee Flexion": 156.77712044668075
+  },
+  {
+    "Frame ID": 472,
+    "Left Knee Flexion": 153.93867753263953,
+    "Right Knee Flexion": 156.00567456546105
+  },
+  {
+    "Frame ID": 473,
+    "Left Knee Flexion": 154.25633912743697,
+    "Right Knee Flexion": 153.77534452449564
+  },
+  {
+    "Frame ID": 474,
+    "Left Knee Flexion": 154.40430969415365,
+    "Right Knee Flexion": 153.40439345435567
+  },
+  {
+    "Frame ID": 475,
+    "Left Knee Flexion": 154.90786459372916,
+    "Right Knee Flexion": 153.82420260802604
+  },
+  {
+    "Frame ID": 476,
+    "Left Knee Flexion": 153.77453112429367,
+    "Right Knee Flexion": 152.87949939836386
+  },
+  {
+    "Frame ID": 477,
+    "Left Knee Flexion": 154.03927693297553,
+    "Right Knee Flexion": 154.05195373873894
+  },
+  {
+    "Frame ID": 478,
+    "Left Knee Flexion": 152.71769102546622,
+    "Right Knee Flexion": 153.9955727749884
+  },
+  {
+    "Frame ID": 479,
+    "Left Knee Flexion": 153.9559712849172,
+    "Right Knee Flexion": 154.8633193295332
+  },
+  {
+    "Frame ID": 480,
+    "Left Knee Flexion": 153.95419180202873,
+    "Right Knee Flexion": 155.4137605580655
+  },
+  {
+    "Frame ID": 481,
+    "Left Knee Flexion": 153.95461545409518,
+    "Right Knee Flexion": 155.34413764613552
+  },
+  {
+    "Frame ID": 482,
+    "Left Knee Flexion": 154.9501062589985,
+    "Right Knee Flexion": 155.76179506469566
+  },
+  {
+    "Frame ID": 483,
+    "Left Knee Flexion": 155.49460912300788,
+    "Right Knee Flexion": 155.10828786673642
+  },
+  {
+    "Frame ID": 484,
+    "Left Knee Flexion": 155.01899795349587,
+    "Right Knee Flexion": 155.75129819139627
+  },
+  {
+    "Frame ID": 485,
+    "Left Knee Flexion": 154.02297156248244,
+    "Right Knee Flexion": 155.0937920234353
+  },
+  {
+    "Frame ID": 486,
+    "Left Knee Flexion": 153.40251736478595,
+    "Right Knee Flexion": 153.30869145056892
+  },
+  {
+    "Frame ID": 487,
+    "Left Knee Flexion": 154.68668594463867,
+    "Right Knee Flexion": 152.7093696121531
+  },
+  {
+    "Frame ID": 488,
+    "Left Knee Flexion": 155.41974858643127,
+    "Right Knee Flexion": 152.3543184950265
+  },
+  {
+    "Frame ID": 489,
+    "Left Knee Flexion": 155.0197737180117,
+    "Right Knee Flexion": 151.54985405573635
+  },
+  {
+    "Frame ID": 490,
+    "Left Knee Flexion": 155.4596128410894,
+    "Right Knee Flexion": 152.03684653041424
+  },
+  {
+    "Frame ID": 491,
+    "Left Knee Flexion": 156.9760356391605,
+    "Right Knee Flexion": 154.70157975633754
+  },
+  {
+    "Frame ID": 492,
+    "Left Knee Flexion": 155.73263996342732,
+    "Right Knee Flexion": 158.44016409102935
+  },
+  {
+    "Frame ID": 493,
+    "Left Knee Flexion": 160.19612493237346,
+    "Right Knee Flexion": 154.66917828890107
+  },
+  {
+    "Frame ID": 494,
+    "Left Knee Flexion": 159.06488993113928,
+    "Right Knee Flexion": 156.3239830532981
+  },
+  {
+    "Frame ID": 495,
+    "Left Knee Flexion": 160.75271084678224,
+    "Right Knee Flexion": 160.94213472173274
+  },
+  {
+    "Frame ID": 496,
+    "Left Knee Flexion": 163.06232025441037,
+    "Right Knee Flexion": 159.3462960792785
+  },
+  {
+    "Frame ID": 497,
+    "Left Knee Flexion": 165.0895365048134,
+    "Right Knee Flexion": 162.71820273629325
+  },
+  {
+    "Frame ID": 498,
+    "Left Knee Flexion": 164.14370974823626,
+    "Right Knee Flexion": 165.16765930011556
+  },
+  {
+    "Frame ID": 499,
+    "Left Knee Flexion": 165.39674763112782,
+    "Right Knee Flexion": 168.06421682694278
+  },
+  {
+    "Frame ID": 500,
+    "Left Knee Flexion": 169.05198509752756,
+    "Right Knee Flexion": 169.95026700579382
+  },
+  {
+    "Frame ID": 501,
+    "Left Knee Flexion": 169.17506344475404,
+    "Right Knee Flexion": 169.6609834883967
+  },
+  {
+    "Frame ID": 502,
+    "Left Knee Flexion": 168.6703177499153,
+    "Right Knee Flexion": 171.88103962975305
+  },
+  {
+    "Frame ID": 503,
+    "Left Knee Flexion": 169.09019103395207,
+    "Right Knee Flexion": 172.36147271710965
+  },
+  {
+    "Frame ID": 504,
+    "Left Knee Flexion": 172.73064496446003,
+    "Right Knee Flexion": 172.60219344862142
+  },
+  {
+    "Frame ID": 505,
+    "Left Knee Flexion": 172.85773623583947,
+    "Right Knee Flexion": 173.8599193023114
+  },
+  {
+    "Frame ID": 506,
+    "Left Knee Flexion": 172.84114701662648,
+    "Right Knee Flexion": 173.2378393268826
+  },
+  {
+    "Frame ID": 507,
+    "Left Knee Flexion": 174.18893680032966,
+    "Right Knee Flexion": 174.3397554386236
+  },
+  {
+    "Frame ID": 508,
+    "Left Knee Flexion": 176.48465515999632,
+    "Right Knee Flexion": 175.44662518565
+  },
+  {
+    "Frame ID": 509,
+    "Left Knee Flexion": 177.88761978244028,
+    "Right Knee Flexion": 175.10037027454345
+  },
+  {
+    "Frame ID": 510,
+    "Left Knee Flexion": 178.64966373937577,
+    "Right Knee Flexion": 176.0611479778652
+  },
+  {
+    "Frame ID": 511,
+    "Left Knee Flexion": 179.03740271875,
+    "Right Knee Flexion": 177.1477230963804
+  },
+  {
+    "Frame ID": 512,
+    "Left Knee Flexion": 179.36075755421038,
+    "Right Knee Flexion": 178.1520018496088
+  },
+  {
+    "Frame ID": 513,
+    "Left Knee Flexion": 179.3449997695996,
+    "Right Knee Flexion": 179.19538426330973
+  },
+  {
+    "Frame ID": 514,
+    "Left Knee Flexion": 179.57727343359116,
+    "Right Knee Flexion": 178.82084414014895
+  },
+  {
+    "Frame ID": 515,
+    "Left Knee Flexion": 179.1320033696473,
+    "Right Knee Flexion": 178.7150384414945
+  },
+  {
+    "Frame ID": 516,
+    "Left Knee Flexion": 179.96823332852787,
+    "Right Knee Flexion": 178.4770056827312
+  },
+  {
+    "Frame ID": 517,
+    "Left Knee Flexion": 179.38493838186506,
+    "Right Knee Flexion": 178.70332580735922
+  },
+  {
+    "Frame ID": 518,
+    "Left Knee Flexion": 178.67030965797343,
+    "Right Knee Flexion": 179.0982788524332
+  },
+  {
+    "Frame ID": 519,
+    "Left Knee Flexion": 179.04576516991224,
+    "Right Knee Flexion": 179.7383460343717
+  },
+  {
+    "Frame ID": 520,
+    "Left Knee Flexion": 179.21192104918194,
+    "Right Knee Flexion": 179.9190963601146
+  },
+  {
+    "Frame ID": 521,
+    "Left Knee Flexion": 178.9580308487672,
+    "Right Knee Flexion": 179.97885164189896
+  },
+  {
+    "Frame ID": 522,
+    "Left Knee Flexion": 179.51144864003751,
+    "Right Knee Flexion": 179.55794157504164
+  },
+  {
+    "Frame ID": 523,
+    "Left Knee Flexion": 179.29005713176196,
+    "Right Knee Flexion": 179.80403211567074
+  },
+  {
+    "Frame ID": 524,
+    "Left Knee Flexion": 179.64311733982063,
+    "Right Knee Flexion": 178.82554924383405
+  },
+  {
+    "Frame ID": 525,
+    "Left Knee Flexion": 179.98230092740073,
+    "Right Knee Flexion": 179.17331878423056
+  },
+  {
+    "Frame ID": 526,
+    "Left Knee Flexion": 179.0836697073749,
+    "Right Knee Flexion": 179.65164924067014
+  },
+  {
+    "Frame ID": 527,
+    "Left Knee Flexion": 179.21789930897242,
+    "Right Knee Flexion": 179.61913746771035
+  },
+  {
+    "Frame ID": 528,
+    "Left Knee Flexion": 179.41001333339673,
+    "Right Knee Flexion": 178.4483162852249
+  },
+  {
+    "Frame ID": 529,
+    "Left Knee Flexion": 179.69851352878555,
+    "Right Knee Flexion": 179.40157849703527
+  },
+  {
+    "Frame ID": 530,
+    "Left Knee Flexion": 179.54433851961915,
+    "Right Knee Flexion": 179.11136233977706
+  },
+  {
+    "Frame ID": 531,
+    "Left Knee Flexion": 179.86827622205323,
+    "Right Knee Flexion": 179.90058613814782
+  },
+  {
+    "Frame ID": 532,
+    "Left Knee Flexion": 179.76147757468064,
+    "Right Knee Flexion": 179.44972584093435
+  },
+  {
+    "Frame ID": 533,
+    "Left Knee Flexion": 179.5229458884824,
+    "Right Knee Flexion": 179.95580847520594
+  },
+  {
+    "Frame ID": 534,
+    "Left Knee Flexion": 179.9806762602062,
+    "Right Knee Flexion": 179.73282419027717
+  },
+  {
+    "Frame ID": 535,
+    "Left Knee Flexion": 179.31504155005467,
+    "Right Knee Flexion": 179.01113127428323
+  },
+  {
+    "Frame ID": 536,
+    "Left Knee Flexion": 179.64934412927252,
+    "Right Knee Flexion": 179.69435987171394
+  },
+  {
+    "Frame ID": 537,
+    "Left Knee Flexion": 179.29917744822717,
+    "Right Knee Flexion": 179.7941898000614
+  },
+  {
+    "Frame ID": 538,
+    "Left Knee Flexion": 179.56882763114055,
+    "Right Knee Flexion": 179.85071303652094
+  },
+  {
+    "Frame ID": 539,
+    "Left Knee Flexion": 179.7965848920205,
+    "Right Knee Flexion": 179.2458341653183
+  },
+  {
+    "Frame ID": 540,
+    "Left Knee Flexion": 179.6511182910044,
+    "Right Knee Flexion": 178.98927296007554
+  },
+  {
+    "Frame ID": 541,
+    "Left Knee Flexion": 179.49600492792837,
+    "Right Knee Flexion": 179.6150535749346
+  },
+  {
+    "Frame ID": 542,
+    "Left Knee Flexion": 179.3765556371769,
+    "Right Knee Flexion": 179.72859849170462
+  },
+  {
+    "Frame ID": 543,
+    "Left Knee Flexion": 179.98156744034415,
+    "Right Knee Flexion": 179.314242522186
+  },
+  {
+    "Frame ID": 544,
+    "Left Knee Flexion": 179.45037528261034,
+    "Right Knee Flexion": 179.6488840091684
+  },
+  {
+    "Frame ID": 545,
+    "Left Knee Flexion": 179.22483883867793,
+    "Right Knee Flexion": 179.76617732504877
+  },
+  {
+    "Frame ID": 546,
+    "Left Knee Flexion": 179.45856993892596,
+    "Right Knee Flexion": 179.97856284501728
+  },
+  {
+    "Frame ID": 547,
+    "Left Knee Flexion": 179.79653738508674,
+    "Right Knee Flexion": 179.68600845431
+  },
+  {
+    "Frame ID": 548,
+    "Left Knee Flexion": 179.9794228461989,
+    "Right Knee Flexion": 179.80478853905407
+  },
+  {
+    "Frame ID": 549,
+    "Left Knee Flexion": 179.96813944960783,
+    "Right Knee Flexion": 179.55350000841545
+  },
+  {
+    "Frame ID": 550,
+    "Left Knee Flexion": 179.94999928729388,
+    "Right Knee Flexion": 179.6290673654289
+  },
+  {
+    "Frame ID": 551,
+    "Left Knee Flexion": 179.81673308299455,
+    "Right Knee Flexion": 179.51116545794983
+  },
+  {
+    "Frame ID": 552,
+    "Left Knee Flexion": 179.9820569946853,
+    "Right Knee Flexion": 179.79256187325007
+  },
+  {
+    "Frame ID": 553,
+    "Left Knee Flexion": 179.4865051406759,
+    "Right Knee Flexion": 179.86601249216966
+  },
+  {
+    "Frame ID": 554,
+    "Left Knee Flexion": 179.54624725620377,
+    "Right Knee Flexion": 179.98248838847223
+  },
+  {
+    "Frame ID": 555,
+    "Left Knee Flexion": 179.40578054151405,
+    "Right Knee Flexion": 179.39312126796509
+  }
+]

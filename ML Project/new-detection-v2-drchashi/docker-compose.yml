@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+  web:
+    build: .
+    container_name: detection_app
+    ports:
+      - "9310:9310"
+    volumes:
+      - /var/www/detection_app/static:/var/www/detection_app/static
+      - /var/www/detection_app/media:/var/www/detection_app/media
+      - /var/www/detection_app/logs:/var/www/detection_app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: >
+      gunicorn DetectionApplication.wsgi:application
+      -c gunicorn.config.py
+
+volumes:
+  static_volume:
+  media_volume:
+  logs_volume:
